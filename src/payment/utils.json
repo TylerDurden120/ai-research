@@ -1,0 +1,13 @@
+{
+    "1.0": [
+        "Filter\\strings.resjson",
+        "index.macos.jsbundle",
+        "index.macos.jsbundle.LICENSE.txt",
+        "strings.resjson",
+        "tester.macos.jsbundle",
+        "tester.macos.jsbundle.LICENSE.txt",
+        "UserActivityUX\\strings.resjson",
+        "StoreLogo.png",
+        "manifest.xml"
+    ]
+}
